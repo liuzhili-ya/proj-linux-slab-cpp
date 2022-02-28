@@ -27,9 +27,9 @@ Linux内核slab内存分配器对象化实现
 MIT license (LICENSE-MIT or http://opensource.org/licenses/MIT)  
 
 ## 【预期目标】
-### 完成Linux内核slab内存分配器对象化实现
-### 对象化改造后的系统稳定运行
+完成Linux内核slab内存分配器对象化实现
+对象化改造后的系统稳定运行
 
 ### 【参考资源】
-C++语言相关书籍
-SLAB介绍(https://www.cnblogs.com/pengdonglin137/p/3878552.html) 
+- C++语言相关书籍
+- SLAB介绍(https://www.cnblogs.com/pengdonglin137/p/3878552.html) 
